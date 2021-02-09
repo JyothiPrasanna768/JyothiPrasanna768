@@ -3,7 +3,7 @@
 <!--
 **JyothiPrasanna768/JyothiPrasanna768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am working in the areas of Machine Learning, Deep Learning and Computer Vision. I am passionate about technologies and love to learn new things.
+<p>I am working in the areas of Machine Learning, Deep Learning and Computer Vision. I am passionate about technologies and love to learn new things.</p>
 -->
 - 🤖 I am AI Enthusiast and Researcher.
 - 🔭 I’m currently looking for opportunities in above mentioned areas.
