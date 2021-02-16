@@ -6,7 +6,7 @@
 -->
 <p>I am working in the areas of Machine Learning, Deep Learning and Computer Vision. I am passionate about technologies and love to learn new things.</p>
 
-- 🤖 I am AI Enthusiast and Researcher.
+- 🤖 I am Researcher, AI & Data Science Enthusiast.
 - 🔭 I’m currently looking for opportunities in above mentioned areas.
 - 🌱 I’m currently pursing B.Tech final year in ECE from <a href="https://rguktrkv.ac.in/">RGUKT-RKValley</a>.
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning and Computer Vision projects using Python.
