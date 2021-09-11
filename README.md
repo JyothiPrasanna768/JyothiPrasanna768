@@ -8,7 +8,7 @@
 
 - 🤖 I am Researcher, AI & Data Science Enthusiast.
 - 🔭 I’m currently looking for opportunities in above mentioned areas.
-- 🌱 I’m currently pursing B.Tech final year in ECE from <a href="https://rguktrkv.ac.in/">RGUKT-RKValley</a>.
+- 🌱 I did my Bachelor's degree  in Electronics and Communication Engineering from <a href="https://rguktrkv.ac.in/">RGUKT-RKValley</a>.
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning and Computer Vision projects using Python.
 - 🤔 I’m looking for help to work on Natural Language Processing
 - 💬 Ask me about Deep Learning 
